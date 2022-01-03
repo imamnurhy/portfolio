@@ -130,7 +130,7 @@ if (isset($_POST['submit'])) {
                         <p class="bagiankiri animasi-scroll delay-2">
                             Saya adalah orang yang berpengalaman sebagai Web Designer, Frontend Web Developer dan Junior
                             Backend Developer. Terampil dalam HTML5, CSS, Bootstrap, JavaScript dan PHP Native. Saat ini
-                            saya adalah mahasiswa aktif di Universitas Nusa Mandiri.
+                            saya adalah mahasiswa aktif di Universitas Pamulang.
                         </p>
                         <div class="bagiankiri animasi-scroll delay-4">
                             <button>
