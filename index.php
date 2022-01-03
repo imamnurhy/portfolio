@@ -213,10 +213,7 @@ if (isset($_POST['submit'])) {
                             <input type="text" name="message" placeholder="Masukan Pesan Anda">
                         </div>
 
-                        <!-- <input type="submit">
-                        Hubungi
-                        </input> -->
-                        <input type="submit" name="submit" value="Submit">
+                        <input type="submit"> Hubungi </input>
                     </form>
 
                 </div>
